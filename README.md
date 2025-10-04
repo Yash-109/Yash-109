@@ -31,8 +31,7 @@
 
 ## 📂 Featured Projects  
 
-🔹 [**Electrotrack**](https://github.com/Yash-109/Electrotrack) — IoT-based smart energy tracker  
-🔹 [**Odoo ERP Modules**](https://github.com/Yash-109/Odoo) — Custom Odoo apps for business  
+🔹 [**Electrotrack**](https://github.com/Yash-109/Electrotrack) — Expense tracker with E-commerce website
 🔹 [**Leetcode Solutions**](https://github.com/Yash-109/Leetcode-solutions) — My DSA problem-solving journey  
 
 ---
