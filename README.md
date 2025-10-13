@@ -41,7 +41,7 @@
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-109&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-109&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-109&theme=radical&date_format=M%20j%5B,%20Y%5D&v=1)  
-![Profile Views](https://komarev.com/ghpvc/?username=Yash-109&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Yash-109&style=flat-square&color=blue&count=1000)
 
 
 ---
