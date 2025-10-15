@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  
 - 🌱 Currently improving my **DSA skills** and building projects  
-- 🔭 Working on **Electrotrack** and exploring **Odoo ERP**  
+- 🔭 Working on **Electrotrack** 
 - 🌐 Passionate about **web development** and creating useful applications  
 - 📚 Learning **system design & full-stack development** step by step  
 - 🎯 Goal: To become a strong **software engineer** with practical project experience  
