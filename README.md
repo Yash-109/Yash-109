@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+ 👨‍💻 About Me  
 
 - 🌱 Currently sharpening my **DSA skills** and building real-world projects  
 - 🔭 Working on **[Electrotrack](https://github.com/Yash-109/Electrotrack)** — an expense tracker with e-commerce features  
