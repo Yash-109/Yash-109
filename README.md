@@ -2,7 +2,7 @@
 
 💻 **Aspiring Software Developer** | 🌐 **Enthusiastic Web Developer** | ⚡ **Problem-Solving Enthusiast**  
 
----
+-
 
  👨‍💻 About Me  
 
