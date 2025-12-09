@@ -1,4 +1,4 @@
-# 👋 Hi There I'm Yash  
+# 👋 Hi There, I'm Yash  
 
 💻 **Aspiring Software Developer** | 🌐 **Enthusiastic Web Developer** | ⚡ **Problem-Solving Enthusiast**  
 
