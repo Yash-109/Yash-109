@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Yash
+# 👋 Hi, I'm Yash  
 
 💻 **Aspiring Software Developer** | 🌐 **Web Developer** | ⚡ **Problem-Solving Oriented**
 
-
+---
 
 ## 👨‍💻 About Me
 
@@ -16,19 +16,19 @@
 
 ## ⚒️ Tech Stack
 
-### Languages
+### Languages  
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
+### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
-### Databases & Tools
+### Databases & Tools  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -55,33 +55,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yash-109&show_icons=true&count_private=true&theme=radical&cache_seconds=1800"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-109&layout=compact&theme=radical&cache_seconds=1800"
-    height="160"
-    alt="Top Languages"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-109&show_icons=true&count_private=true&theme=radical)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=yash-109&theme=radical"
-    height="160"
-    alt="GitHub Streak"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-109&layout=compact&theme=radical)
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=yash-109&style=flat-square&color=blue"
-    alt="Profile Views"
-  />
-</p>
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yash-109&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yash-109&style=flat-square&color=blue)
 
 ---
 
