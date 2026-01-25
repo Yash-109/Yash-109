@@ -55,19 +55,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-109&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-109&show_icons=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-109&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-109&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yash-109&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yash-109&theme=radical&hide_border=true&date=20260125)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yash-109&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Yash-109&style=flat-square&color=blue)
 
 ---
 
