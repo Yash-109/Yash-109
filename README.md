@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-109&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-109&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-109&layout=compact&theme=radical)
 
@@ -63,7 +63,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yash-109&theme=radical&hide_border=true&date=20260125)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yash-109&theme=radical)
 
 ---
 
