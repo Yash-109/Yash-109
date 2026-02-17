@@ -40,7 +40,6 @@
 | Project | Description |
 |-------|------------|
 | 🔹 **[Trading-Journal](https://github.com/Yash-109/Trading-Journal)** | JavaScript-based trading journal and analytics project |
-| 🔹 **[DSA](https://github.com/Yash-109/DSA)** | Data Structures & Algorithms practice using C++ |
 | 🔹 **[Electrotrack](https://github.com/Yash-109/Electrotrack)** | E-commerce web application (currently inactive) |
 
 ---
