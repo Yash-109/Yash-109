@@ -60,7 +60,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yash-109&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yash-109&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
