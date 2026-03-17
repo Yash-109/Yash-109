@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-- Currently strengthening **Data Structures & Algorithms (C++)**
+- Currently strengthening **Data Structures & Algorithms**
 - Maintaining a dedicated **DSA problem-solving repository**
 - Building **Trading-Journal**, a JavaScript-based trading analytics project
 - Practicing **core JavaScript and structured project development**
